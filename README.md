@@ -247,4 +247,4 @@ npm test
 | Name              | GitHub Username                               | Contributions                                                                                             |
 | ----------------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | Jaya Aswanth Allu | [AswanthAllu](https://github.com/AswanthAllu) | Chain of Thought, Persistent Chat History, STT/TTS, Podcast Generator, Mind Maps, RAG, Deep Search UI/UX |
-| Solomon Matthews  | [7nos](https://github.com/7nos)               | Deep Search Engine , Web Search Engine , multi model integration LLMs, rate limiting 
+| Solomon Matthews  | [7nos](https://github.com/7nos)               | Deep Search Engine , Web Search Engine , multi model integration LLMs, rate limiting , optimize prompt for better results |
